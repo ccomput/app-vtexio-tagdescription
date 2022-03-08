@@ -1,0 +1,21 @@
+{
+  "vendor": "lojashure",
+  "name": "shure-outbox-about-prod",
+  "version": "0.0.0",
+  "title": "Outbox About Product",
+  "description": "Outbox About Product",
+  "builders": {
+    "store": "0.x",
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x"
+  },
+  "dependencies": {
+    "vtex.product-context": "0.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

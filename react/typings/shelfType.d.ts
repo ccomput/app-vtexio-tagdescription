@@ -1,0 +1,3 @@
+interface ShelfType {
+  productDescription: string
+}

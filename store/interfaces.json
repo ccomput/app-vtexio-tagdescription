@@ -1,0 +1,8 @@
+{
+  "hello-world": {
+    "component": "HelloWorld"
+  },
+  "custom-shelf": {
+    "component": "Shelf"
+  }
+}
