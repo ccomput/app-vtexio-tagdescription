@@ -4,5 +4,8 @@
   },
   "custom-shelf": {
     "component": "Shelf"
+  },
+  "discount": {
+    "component": "Discount"
   }
 }
