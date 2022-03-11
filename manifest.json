@@ -1,7 +1,7 @@
 {
   "vendor": "shuremx",
   "name": "shure-outbox-about-prod",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "title": "Outbox About Product",
   "description": "Outbox About Product",
   "builders": {
