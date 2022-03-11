@@ -9,7 +9,11 @@
     "sourceMap": true,
     "allowJs": true,
     "jsx": "react",
-    "lib": ["DOM"]
+    "lib": [
+      "DOM"
+    ]
   },
-  "exclude": ["./node_modules/**/*"]
+  "exclude": [
+    "./node_modules/**/*"
+  ]
 }
